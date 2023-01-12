@@ -9,7 +9,7 @@ class App extends Component {
 
     if (section) {
       return <Scrolly section={section} data={data} />;
-    } else {ß
+    } else {
       return <Plot data={data} />;
     }
   }

@@ -13,7 +13,7 @@
     },
     "devDependencies": {
         "@abcnews/aunty": "^13.2.2",
-        "prettier": "^1.5.3"
+        "babel-preset-preact": "^2.0.0"
     },
     "dependencies": {
         "array-from": "^2.1.1",

@@ -125,6 +125,8 @@ class Map extends Component {
 
     path = Geo.geoPath().projection(projection);
 
+    console.log(this.props.data)
+
     // Graft the support onto the map data
     data = TopoJSON.feature(mapJSON, mapJSON.objects.map).features.map(f => {
       f.properties.support = this.props.data.getIn([f.properties.elect_div.toUpperCase(), "value"]);

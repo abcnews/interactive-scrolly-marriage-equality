@@ -1,0 +1,602 @@
+[
+  {
+    "electorate": "ADELAIDE",
+    "prop": 0.658712344128265
+  },
+  {
+    "electorate": "ASTON",
+    "prop": 0.584890574056916
+  },
+  {
+    "electorate": "BALLARAT",
+    "prop": 0.650876537408841
+  },
+  {
+    "electorate": "BANKS",
+    "prop": 0.514885985750287
+  },
+  {
+    "electorate": "BARKER",
+    "prop": 0.504572922709062
+  },
+  {
+    "electorate": "BARTON",
+    "prop": 0.580123201544643
+  },
+  {
+    "electorate": "BASS",
+    "prop": 0.55290300682507
+  },
+  {
+    "electorate": "BATMAN",
+    "prop": 0.759914818157579
+  },
+  {
+    "electorate": "BENDIGO",
+    "prop": 0.648875797499071
+  },
+  {
+    "electorate": "BENNELONG",
+    "prop": 0.559000681654772
+  },
+  {
+    "electorate": "BEROWRA",
+    "prop": 0.548708994791709
+  },
+  {
+    "electorate": "BLAIR",
+    "prop": 0.511259433710684
+  },
+  {
+    "electorate": "BLAXLAND",
+    "prop": 0.461968673869298
+  },
+  {
+    "electorate": "BONNER",
+    "prop": 0.541344853547382
+  },
+  {
+    "electorate": "BOOTHBY",
+    "prop": 0.626556262606799
+  },
+  {
+    "electorate": "BOWMAN",
+    "prop": 0.528897670486731
+  },
+  {
+    "electorate": "BRADDON",
+    "prop": 0.520153092602101
+  },
+  {
+    "electorate": "BRADFIELD",
+    "prop": 0.602546953007015
+  },
+  {
+    "electorate": "BRAND",
+    "prop": 0.581504040276858
+  },
+  {
+    "electorate": "BRISBANE",
+    "prop": 0.688803509773289
+  },
+  {
+    "electorate": "BRUCE",
+    "prop": 0.533348375953859
+  },
+  {
+    "electorate": "BURT",
+    "prop": 0.526761039730236
+  },
+  {
+    "electorate": "CALARE",
+    "prop": 0.549446835945567
+  },
+  {
+    "electorate": "CALWELL",
+    "prop": 0.52561108956134
+  },
+  {
+    "electorate": "CANBERRA",
+    "prop": 0.699662674101942
+  },
+  {
+    "electorate": "CANNING",
+    "prop": 0.511584920398789
+  },
+  {
+    "electorate": "CAPRICORNIA",
+    "prop": 0.476642863561699
+  },
+  {
+    "electorate": "CASEY",
+    "prop": 0.63690705196696
+  },
+  {
+    "electorate": "CHIFLEY",
+    "prop": 0.474148171966128
+  },
+  {
+    "electorate": "CHISHOLM",
+    "prop": 0.636475662781485
+  },
+  {
+    "electorate": "COOK",
+    "prop": 0.538985801361492
+  },
+  {
+    "electorate": "CORANGAMITE",
+    "prop": 0.644921373666091
+  },
+  {
+    "electorate": "CORIO",
+    "prop": 0.639961795976788
+  },
+  {
+    "electorate": "COWAN",
+    "prop": 0.562218815930503
+  },
+  {
+    "electorate": "COWPER",
+    "prop": 0.552063529532104
+  },
+  {
+    "electorate": "CUNNINGHAM",
+    "prop": 0.59080592570056
+  },
+  {
+    "electorate": "CURTIN",
+    "prop": 0.657659603901282
+  },
+  {
+    "electorate": "DAWSON",
+    "prop": 0.481999324769578
+  },
+  {
+    "electorate": "DEAKIN",
+    "prop": 0.618888851562994
+  },
+  {
+    "electorate": "DENISON",
+    "prop": 0.698684567316995
+  },
+  {
+    "electorate": "DICKSON",
+    "prop": 0.529723530224586
+  },
+  {
+    "electorate": "DOBELL",
+    "prop": 0.568867133862846
+  },
+  {
+    "electorate": "DUNKLEY",
+    "prop": 0.658732555785938
+  },
+  {
+    "electorate": "DURACK",
+    "prop": 0.532233252436657
+  },
+  {
+    "electorate": "EDEN-MONARO",
+    "prop": 0.5835073403848
+  },
+  {
+    "electorate": "FADDEN",
+    "prop": 0.542388396757061
+  },
+  {
+    "electorate": "FAIRFAX",
+    "prop": 0.538257331045555
+  },
+  {
+    "electorate": "FARRER",
+    "prop": 0.544030364560385
+  },
+  {
+    "electorate": "FENNER",
+    "prop": 0.714119425219989
+  },
+  {
+    "electorate": "FISHER",
+    "prop": 0.548683224073008
+  },
+  {
+    "electorate": "FLINDERS",
+    "prop": 0.650727180377455
+  },
+  {
+    "electorate": "FLYNN",
+    "prop": 0.438124889062193
+  },
+  {
+    "electorate": "FORDE",
+    "prop": 0.493104679486141
+  },
+  {
+    "electorate": "FORREST",
+    "prop": 0.553761611766152
+  },
+  {
+    "electorate": "FOWLER",
+    "prop": 0.524482550288142
+  },
+  {
+    "electorate": "FRANKLIN",
+    "prop": 0.606670599324877
+  },
+  {
+    "electorate": "FREMANTLE",
+    "prop": 0.641644278986095
+  },
+  {
+    "electorate": "GELLIBRAND",
+    "prop": 0.729102276585676
+  },
+  {
+    "electorate": "GILMORE",
+    "prop": 0.553983373952428
+  },
+  {
+    "electorate": "GIPPSLAND",
+    "prop": 0.56437537302009
+  },
+  {
+    "electorate": "GOLDSTEIN",
+    "prop": 0.725874904023757
+  },
+  {
+    "electorate": "GORTON",
+    "prop": 0.579900854341635
+  },
+  {
+    "electorate": "GRAYNDLER",
+    "prop": 0.772697018392946
+  },
+  {
+    "electorate": "GREENWAY",
+    "prop": 0.491990832489938
+  },
+  {
+    "electorate": "GREY",
+    "prop": 0.51727395722392
+  },
+  {
+    "electorate": "GRIFFITH",
+    "prop": 0.675465255501934
+  },
+  {
+    "electorate": "GROOM",
+    "prop": 0.454436561135401
+  },
+  {
+    "electorate": "HASLUCK",
+    "prop": 0.556307240764598
+  },
+  {
+    "electorate": "HERBERT",
+    "prop": 0.558950814853097
+  },
+  {
+    "electorate": "HIGGINS",
+    "prop": 0.735901887468733
+  },
+  {
+    "electorate": "HINDMARSH",
+    "prop": 0.617043575873222
+  },
+  {
+    "electorate": "HINKLER",
+    "prop": 0.430925541547634
+  },
+  {
+    "electorate": "HOLT",
+    "prop": 0.547470100684899
+  },
+  {
+    "electorate": "HOTHAM",
+    "prop": 0.653941958573218
+  },
+  {
+    "electorate": "HUGHES",
+    "prop": 0.535700411156777
+  },
+  {
+    "electorate": "HUME",
+    "prop": 0.529321009065401
+  },
+  {
+    "electorate": "HUNTER",
+    "prop": 0.550898808992186
+  },
+  {
+    "electorate": "INDI",
+    "prop": 0.636931639455289
+  },
+  {
+    "electorate": "ISAACS",
+    "prop": 0.669952543458554
+  },
+  {
+    "electorate": "JAGAJAGA",
+    "prop": 0.683403845922902
+  },
+  {
+    "electorate": "KENNEDY",
+    "prop": 0.456875473161397
+  },
+  {
+    "electorate": "KINGSFORD SMITH",
+    "prop": 0.672787563717884
+  },
+  {
+    "electorate": "KINGSTON",
+    "prop": 0.602405439886895
+  },
+  {
+    "electorate": "KOOYONG",
+    "prop": 0.680808992505122
+  },
+  {
+    "electorate": "LA TROBE",
+    "prop": 0.639831002464416
+  },
+  {
+    "electorate": "LALOR",
+    "prop": 0.603626374305958
+  },
+  {
+    "electorate": "LEICHHARDT",
+    "prop": 0.553901379185733
+  },
+  {
+    "electorate": "LILLEY",
+    "prop": 0.605836730297315
+  },
+  {
+    "electorate": "LINDSAY",
+    "prop": 0.536969067821891
+  },
+  {
+    "electorate": "LINGIARI",
+    "prop": 0.548583767640714
+  },
+  {
+    "electorate": "LONGMAN",
+    "prop": 0.49475430685452
+  },
+  {
+    "electorate": "LYNE",
+    "prop": 0.513521518837274
+  },
+  {
+    "electorate": "LYONS",
+    "prop": 0.548213861246945
+  },
+  {
+    "electorate": "MACARTHUR",
+    "prop": 0.527595808192362
+  },
+  {
+    "electorate": "MACKELLAR",
+    "prop": 0.604303929680282
+  },
+  {
+    "electorate": "MACQUARIE",
+    "prop": 0.577521523178829
+  },
+  {
+    "electorate": "MAKIN",
+    "prop": 0.570154878465938
+  },
+  {
+    "electorate": "MALLEE",
+    "prop": 0.554455295914809
+  },
+  {
+    "electorate": "MARANOA",
+    "prop": 0.417721929609609
+  },
+  {
+    "electorate": "MARIBYRNONG",
+    "prop": 0.662182072251338
+  },
+  {
+    "electorate": "MAYO",
+    "prop": 0.605221398664029
+  },
+  {
+    "electorate": "MCEWEN",
+    "prop": 0.609980218845665
+  },
+  {
+    "electorate": "MCMAHON",
+    "prop": 0.475801396887251
+  },
+  {
+    "electorate": "MCMILLAN",
+    "prop": 0.606153286544719
+  },
+  {
+    "electorate": "MCPHERSON",
+    "prop": 0.564930810831054
+  },
+  {
+    "electorate": "MELBOURNE",
+    "prop": 0.780241200010598
+  },
+  {
+    "electorate": "MELBOURNE PORTS",
+    "prop": 0.787628949191579
+  },
+  {
+    "electorate": "MENZIES",
+    "prop": 0.596762872225574
+  },
+  {
+    "electorate": "MITCHELL",
+    "prop": 0.523285223655017
+  },
+  {
+    "electorate": "MONCRIEFF",
+    "prop": 0.55722105819864
+  },
+  {
+    "electorate": "MOORE",
+    "prop": 0.577900608784458
+  },
+  {
+    "electorate": "MORETON",
+    "prop": 0.574772334425139
+  },
+  {
+    "electorate": "MURRAY",
+    "prop": 0.547230086499404
+  },
+  {
+    "electorate": "NEW ENGLAND",
+    "prop": 0.511698238679951
+  },
+  {
+    "electorate": "NEWCASTLE",
+    "prop": 0.637372545221088
+  },
+  {
+    "electorate": "NORTH SYDNEY",
+    "prop": 0.69336930963601
+  },
+  {
+    "electorate": "O'CONNOR",
+    "prop": 0.51397514569346
+  },
+  {
+    "electorate": "OXLEY",
+    "prop": 0.550356662370648
+  },
+  {
+    "electorate": "PAGE",
+    "prop": 0.551509734782015
+  },
+  {
+    "electorate": "PARKES",
+    "prop": 0.465496724275535
+  },
+  {
+    "electorate": "PARRAMATTA",
+    "prop": 0.518857678021686
+  },
+  {
+    "electorate": "PATERSON",
+    "prop": 0.545658847661755
+  },
+  {
+    "electorate": "PEARCE",
+    "prop": 0.557460305244379
+  },
+  {
+    "electorate": "PERTH",
+    "prop": 0.680016765651743
+  },
+  {
+    "electorate": "PETRIE",
+    "prop": 0.515207585513864
+  },
+  {
+    "electorate": "PORT ADELAIDE",
+    "prop": 0.631050321111751
+  },
+  {
+    "electorate": "RANKIN",
+    "prop": 0.491245376675697
+  },
+  {
+    "electorate": "REID",
+    "prop": 0.613761691560652
+  },
+  {
+    "electorate": "RICHMOND",
+    "prop": 0.606043122346555
+  },
+  {
+    "electorate": "RIVERINA",
+    "prop": 0.523043056760405
+  },
+  {
+    "electorate": "ROBERTSON",
+    "prop": 0.577194632328652
+  },
+  {
+    "electorate": "RYAN",
+    "prop": 0.630133060121898
+  },
+  {
+    "electorate": "SCULLIN",
+    "prop": 0.592135949995968
+  },
+  {
+    "electorate": "SHORTLAND",
+    "prop": 0.562541574249921
+  },
+  {
+    "electorate": "SOLOMON",
+    "prop": 0.631758790581289
+  },
+  {
+    "electorate": "STIRLING",
+    "prop": 0.623448931548606
+  },
+  {
+    "electorate": "STURT",
+    "prop": 0.609326376673881
+  },
+  {
+    "electorate": "SWAN",
+    "prop": 0.615871566200275
+  },
+  {
+    "electorate": "SYDNEY",
+    "prop": 0.790415571297605
+  },
+  {
+    "electorate": "TANGNEY",
+    "prop": 0.565735113393687
+  },
+  {
+    "electorate": "WAKEFIELD",
+    "prop": 0.579614971791813
+  },
+  {
+    "electorate": "WANNON",
+    "prop": 0.584810472525529
+  },
+  {
+    "electorate": "WARRINGAH",
+    "prop": 0.69560544600289
+  },
+  {
+    "electorate": "WATSON",
+    "prop": 0.519907138917561
+  },
+  {
+    "electorate": "WENTWORTH",
+    "prop": 0.778169941701286
+  },
+  {
+    "electorate": "WERRIWA",
+    "prop": 0.495376283091184
+  },
+  {
+    "electorate": "WHITLAM",
+    "prop": 0.54440886812524
+  },
+  {
+    "electorate": "WIDE BAY",
+    "prop": 0.508806358977938
+  },
+  {
+    "electorate": "WILLS",
+    "prop": 0.752625573913539
+  },
+  {
+    "electorate": "WRIGHT",
+    "prop": 0.467091049418089
+  }
+]

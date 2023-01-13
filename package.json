@@ -16,6 +16,7 @@
         "babel-preset-preact": "^2.0.0"
     },
     "dependencies": {
+        "@abcnews/mount-utils": "^2.0.0",
         "array-from": "^2.1.1",
         "csv-loader": "^2.1.1",
         "d3-force": "^1.0.6",

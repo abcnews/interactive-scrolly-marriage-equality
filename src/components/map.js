@@ -10,7 +10,7 @@ const scale = require("../data/colour-scale");
 
 const mapJSON = require("../data/map.quantized.json");
 
-const styles = require("./map.scss");
+const styles = require("./map.scss").default;
 
 let svg;
 let features;
@@ -124,8 +124,6 @@ class Map extends Component {
       .translate([width / 2, height / 2]);
 
     path = Geo.geoPath().projection(projection);
-
-    console.log(this.props.data)
 
     // Graft the support onto the map data
     data = TopoJSON.feature(mapJSON, mapJSON.objects.map).features.map(f => {

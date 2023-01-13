@@ -1,7 +1,7 @@
 const { Component, h } = require("preact");
 
 const Map = require("./map");
-const styles = require("./background.scss");
+const styles = require("./background.scss").default;
 
 class Background extends Component {
   render() {

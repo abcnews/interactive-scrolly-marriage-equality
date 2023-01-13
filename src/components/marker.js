@@ -1,6 +1,6 @@
 const { Component, h } = require("preact");
 
-const styles = require("./marker.scss");
+const styles = require("./marker.scss").default;
 
 class Marker extends Component {
   constructor(props) {

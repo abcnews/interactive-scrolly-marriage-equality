@@ -1,6 +1,7 @@
 const { h, render } = require("preact");
 const { getData, getScrollytellers, getCharts } = require("./loader");
 import { selectMounts } from "@abcnews/mount-utils";
+import { convert } from "./chartConvert";
 
 const init = () => {
   /**
@@ -20,14 +21,13 @@ const init = () => {
       mount.parentNode.replaceChild(anchorEl, mount);
     });
   }
-
   backtransformMounts();
 
-  // getData().then(data => {
   const data = getData();
   getScrollytellers().forEach(section => mount(section.mountNode, data, section));
-  // getCharts().forEach(chart => mount(chart.mountNode, data));
-  // });
+  getCharts().forEach(chart => mount(chart.mountNode, data));
+
+  convert();
 };
 
 let mount = (element, data, section) => {

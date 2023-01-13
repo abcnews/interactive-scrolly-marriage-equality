@@ -2,7 +2,7 @@ const { Component, h } = require("preact");
 const Immutable = require("immutable");
 const scale = require("../data/colour-scale");
 
-const styles = require("./plot.scss");
+const styles = require("./plot.scss").default;
 
 class Plot extends Component {
   constructor(props) {

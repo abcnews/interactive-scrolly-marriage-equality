@@ -5,37 +5,25 @@ const arrayFrom = require("array-from");
 const Immutable = require("immutable");
 
 function getData() {
-  // const root = document.querySelector("[data-interactive-marriage-equality-root]");
+  function parseCSV(text) {
+    let data = {};
+    text
+      .split("\n")
+      .slice(1)
+      .forEach(row => {
+        row = row.split(",");
+        if (row.length === 2) {
+          const name = row[0].replace(/\"/g, "");
+          data[name.toUpperCase()] = {
+            name: name,
+            value: parseFloat(row[1])
+          };
+        }
+      });
+    return Immutable.fromJS(data);
+  }
 
-  // function parseCSV(text) {
-  //   let data = {};
-  //   text
-  //     .split("\n")
-  //     .slice(1)
-  //     .forEach(row => {
-  //       row = row.split(",");
-  //       if (row.length === 2) {
-  //         const name = row[0].replace(/\"/g, "");
-  //         data[name.toUpperCase()] = {
-  //           name: name,
-  //           value: parseFloat(row[1])
-  //         };
-  //       }
-  //     });
-  //   return Immutable.fromJS(data);
-  // }
-
-  // return fetch(root.getAttribute("data-data-url"), {
-  //   credentials: "same-origin"
-  // })
-  //   .then(r => r.text())
-  //   .then(text => parseCSV(text))
-  //   .catch(error => {
-  //     console.error(error);
-  //     return parseCSV(require("./data/fallback-data.csv.js"));
-  //   });
-  const data = require("./data/ssm-disagree.json");
-  return Immutable.fromJS(data);
+  return parseCSV(require("./data/fallback-data.csv.js"));
 }
 
 // Load any scrollyteller content from Odyssey
